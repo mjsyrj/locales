@@ -18,7 +18,7 @@
   <terms>
     <term name="accessed">viitattu</term>
     <term name="and">ja</term>
-    <term name="and others">ym.</term>
+    <term name="and others">ja muut</term>
     <term name="anonymous">tuntematon</term>
     <term name="anonymous" form="short">tuntematon</term>
     <term name="at">osoitteessa</term>
@@ -32,7 +32,7 @@
       <multiple>painokset</multiple>
     </term>
     <term name="edition" form="short">p.</term>
-    <term name="et-al">ym.</term>
+    <term name="et-al">ja muut</term>
     <term name="forthcoming">tulossa</term>
     <term name="from">osoitteesta</term>
     <term name="ibid">mt.</term>
